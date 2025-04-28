@@ -25,13 +25,11 @@
 ---
 
 ## 🛠️ 사용 기술 스택 ⚙️📊🧠
-- **프론트엔드**: HTML, CSS, JavaScript
+- **프론트엔드**: HTML
 - **백엔드**: Python, Flask, SQL
 - **데이터베이스**: MySQL
 - **API 연동**: Naver API, OpenAI API
 - **음성 합성**: Google TTS (gTTS)
 - **기타**: Streamlit (UI 구성 및 데이터 시각화)
 
----
 
-필요에 따라 수정해서 사용하시면 됩니다!
