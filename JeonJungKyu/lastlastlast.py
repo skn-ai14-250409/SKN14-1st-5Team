@@ -7,8 +7,7 @@ from bs4 import BeautifulSoup
 from openai import OpenAI
 from gtts import gTTS
 from io import BytesIO
-from datetime import datetime
-import time
+
 
 # ── 1) .env 로드 ─────────────────────────────────
 load_dotenv()
