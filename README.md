@@ -32,7 +32,7 @@
 
 ---✅ ERD(Entity Relationship Diagram)
 mysql 테이블 간의 관계를 시각화한 ERD입니다.
-
+(image/1.png)
 
 📸 UI 사전 구성 이미지(화면 설계서)
 
