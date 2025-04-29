@@ -7,8 +7,7 @@ from bs4 import BeautifulSoup
 from openai import OpenAI
 from gtts import gTTS
 from io import BytesIO
-from datetime import datetime
-import time
+
 
 # ── 1) .env 로드 ─────────────────────────────────
 load_dotenv()
@@ -16,7 +15,7 @@ NAVER_CLIENT_ID = os.getenv("NAVER_CLIENT_ID")
 NAVER_CLIENT_SECRET = os.getenv("NAVER_CLIENT_SECRET")
 OPENAI_API_KEY = os.getenv("OPEN_AI_API")
 
-client = OpenAI(api_key=OPENAI_API_KEY)  # ⭐ 신버전 스타일로 클라이언트 생성
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 db_config = {
     'host': os.getenv('DB_HOST'),
