@@ -53,7 +53,8 @@
  
  ### 테이블 관계 다이어그램 (ERD)
  
- ![ERD](images/ERD.png)
+![image](https://github.com/user-attachments/assets/a7bf256e-592f-4b8a-be86-c00afd0687d1)
+
 
 ---✅ ERD(Entity Relationship Diagram)
 mysql 테이블 간의 관계를 시각화한 ERD입니다.
